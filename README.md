@@ -1,2 +1,2 @@
 # openZep
-Open Zeppelin Experiments
+OpenZeppelin Experiments
